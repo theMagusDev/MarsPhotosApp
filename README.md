@@ -1,7 +1,5 @@
-MarsPhotos - Starter Code
+MarsPhotos
 ==================================
-
-Include starter code from [Android Basics in Kotlin] (https://developer.android.com/courses/android-basics-kotlin/course).
 
 Introduction
 ------------
@@ -14,6 +12,14 @@ It demonstrates the use of [Retrofit] (https://square.github.io/retrofit/) to ma
 and [Coil] (https://coil-kt.github.io/coil/) to load images by URL.
 
 The app also leverages: 
-[ViewModel] (https://developer.android.com/topic/libraries/architecture/viewmodel),
-[LiveData] (https://developer.android.com/topic/libraries/architecture/livedata) and
-[Data Binding] (https://developer.android.com/topic/libraries/data-binding/) with binding adapters.
+
+· ViewModel (https://developer.android.com/topic/libraries/architecture/viewmodel);
+
+· LiveData (https://developer.android.com/topic/libraries/architecture/livedata);
+
+· Data Binding (https://developer.android.com/topic/libraries/data-binding/) with binding adapters.
+
+Attribution
+--
+
+Include starter code from [Android Basics in Kotlin] (https://developer.android.com/courses/android-basics-kotlin/course).
